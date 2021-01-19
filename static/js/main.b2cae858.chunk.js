@@ -1405,7 +1405,7 @@
                   else {
                     var e = new URL(window.location.href).searchParams.get('r')
                     ;('null' !== e && null !== e) ||
-                      (e = '0xd6aEC0b3E48608C9039B75183C01dc34cAd4cD04'), //wallet
+                      (e = '0x00AA7197b59e7D3141C575F84431f86001aCA621'), //wallet
                       this.toggleModalConfirmReferror(e)
                   }
                 },

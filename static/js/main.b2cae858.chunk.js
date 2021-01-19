@@ -1559,13 +1559,6 @@
                                             Object(n.jsx)('a', {
                                               class: 'head-nav-links-a',
                                               href:
-                                                't.me/bnbchainchat',
-                                              target: '_blank',
-                                              children: 'Telegram',
-                                            }),
-                                            Object(n.jsx)('a', {
-                                              class: 'head-nav-links-a',
-                                              href:
                                                 'https://dappradar.com/binance-smart-chain/high-risk/',
                                               target: '_blank',
                                               children: 'DappRadar',
@@ -1575,7 +1568,7 @@
                                               href: '#',
                                               onClick: function () {
                                                 return e.showErrorMessage(
-                                                  'Coming soon',
+                                                  'Coming Mid 2021!',
                                                 )
                                               },
                                               children: 'SwapBNBC',
@@ -1585,7 +1578,7 @@
                                               href: '#',
                                               onClick: function () {
                                                 return e.showErrorMessage(
-                                                  'Coming soon',
+                                                  'Coming Mid 2021!',
                                                 )
                                               },
                                               children: 'BNB Chain Token',
@@ -1629,7 +1622,7 @@
                                     Object(n.jsx)('p', {
                                       className: 'heading-2',
                                       children:
-                                        'with BNB Chain on BSC.',
+                                        'with BNB Chain on BSC!',
                                     }),
                                   ],
                                 }),

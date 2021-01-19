@@ -1405,7 +1405,7 @@
                   else {
                     var e = new URL(window.location.href).searchParams.get('r')
                     ;('null' !== e && null !== e) ||
-                      (e = '0x89223016505cBb9f6069E163a09A4aa8FcdD5F99'), //wallet
+                      (e = '0xd6aEC0b3E48608C9039B75183C01dc34cAd4cD04'), //wallet
                       this.toggleModalConfirmReferror(e)
                   }
                 },
@@ -1559,9 +1559,9 @@
                                             Object(n.jsx)('a', {
                                               class: 'head-nav-links-a',
                                               href:
-                                                'https://youtu.be/YOipEhPubYQ',
+                                                't.me/bnbchainchat',
                                               target: '_blank',
-                                              children: 'Developer',
+                                              children: 'Telegram',
                                             }),
                                             Object(n.jsx)('a', {
                                               class: 'head-nav-links-a',

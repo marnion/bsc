@@ -1225,7 +1225,7 @@
                       window.ethereum.enable(),
                       !0)
                     : (this.showErrorMessage(
-                        'Please install Binance Smart Chain compatible wallet like Metamask or Trust wallet to use this Dapps!',
+                        'Please install Binance Smart Chain compatible wallet like Metamask or Trust wallet to use this Dapp!',
                       ),
                       this.setState({ loading: !1 }),
                       !1)

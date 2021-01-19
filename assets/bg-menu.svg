@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="586.387" height="711.449"
+  viewBox="0 0 586.387 711.449">
+  <defs>
+    <style>
+      .a,
+      .c,
+      .e,
+      .f,
+      .h,
+      .k,
+      .m,
+      .n {
+        fill: none;
+      }
+
+      .a,
+      .k,
+      .m,
+      .n {
+        stroke: #f8cd36;
+      }
+
+      .a,
+      .f,
+      .h,
+      .j {
+        stroke-miterlimit: 10;
+      }
+
+      .a {
+        stroke-width: 1.002px;
+      }
+
+      .b {
+        opacity: 0.2;
+      }
+
+      .c,
+      .f {
+        stroke: #4d4d4d;
+      }
+
+      .c,
+      .e,
+      .k,
+      .m,
+      .n {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .d,
+      .l {
+        opacity: 0.5;
+      }
+
+      .e,
+      .h,
+      .j {
+        stroke: #333;
+      }
+
+      .e {
+        stroke-width: 0.553px;
+      }
+
+      .f {
+        stroke-width: 12.488px;
+      }
+
+      .g {
+        fill: #4d4d4d;
+      }
+
+      .h {
+        stroke-width: 13.073px;
+      }
+
+      .i,
+      .j {
+        fill: #1c1c1c;
+      }
+
+      .k {
+        stroke-width: 0.707px;
+      }
+
+      .l {
+        fill: #333;
+      }
+
+      .m {
+        stroke-width: 1.053px;
+      }
+
+      .n {
+        stroke-width: 1.008px;
+      }
+
+      .o {
+        filter: url(#a);
+      }
+    </style>
+    <filter id="a" x="0" y="0" width="586.387" height="695.043" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha" />
+      <feGaussianBlur stdDeviation="2.506" result="b" />
+      <feFlood flood-color="#f8cd36" flood-opacity="0.749" />
+      <feComposite operator="in" in2="b" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+  </defs>
+  <g transform="translate(8.02 8.02)">
+    <g class="o" transform="matrix(1, 0, 0, 1, -8.02, -8.02)">
+      <rect class="a" width="570.348" height="679.003" rx="10.963" transform="translate(8.02 8.02)" />
+    </g>
+    <g class="b" transform="translate(48.679 626.035)">
+      <line class="c" x2="33.894" />
+      <line class="c" x2="33.894" transform="translate(55.615)" />
+      <line class="c" x2="33.894" transform="translate(109.346)" />
+    </g>
+    <g class="d" transform="translate(438.163 56.507)">
+      <line class="e" x2="16.156" />
+      <line class="e" x2="16.156" transform="translate(26.51)" />
+      <line class="e" x2="16.156" transform="translate(52.122)" />
+    </g>
+    <g class="b" transform="translate(141.527 190.766)">
+      <circle class="f" cx="137.843" cy="137.843" r="137.843" transform="translate(6.463 6.463)" />
+      <g transform="translate(34.584 39.785)">
+        <g transform="translate(3.848 0.001)">
+          <path class="g"
+            d="M177.42,751.577a12.351,12.351,0,0,1-8.734-21.083L361.3,537.883a12.35,12.35,0,0,1,17.467,17.465L186.151,747.958A12.3,12.3,0,0,1,177.42,751.577Z"
+            transform="translate(-165.068 -534.266)" />
+        </g>
+        <path class="g"
+          d="M368.287,751.577a12.309,12.309,0,0,1-8.734-3.619L166.943,555.348a12.35,12.35,0,0,1,17.465-17.465L377.021,730.494a12.351,12.351,0,0,1-8.734,21.083Z"
+          transform="translate(-163.325 -534.265)" />
+      </g>
+      <circle class="h" cx="144.306" cy="144.306" r="144.306" transform="translate(0 0)" />
+      <g transform="translate(36.507 35.937)">
+        <path class="i"
+          d="M176.548,749.834a12.351,12.351,0,0,1-8.734-21.083L360.427,536.14A12.35,12.35,0,0,1,377.892,553.6L185.281,746.216A12.309,12.309,0,0,1,176.548,749.834Z"
+          transform="translate(-164.196 -532.522)" />
+        <path class="i"
+          d="M369.158,749.834a12.3,12.3,0,0,1-8.731-3.618L167.814,553.6a12.35,12.35,0,1,1,17.467-17.465L377.892,728.751a12.351,12.351,0,0,1-8.734,21.083Z"
+          transform="translate(-164.196 -532.522)" />
+      </g>
+      <circle class="j" cx="80.17" cy="80.17" r="80.17" transform="translate(64.136 64.136)" />
+    </g>
+    <g transform="translate(40.52 679.003)">
+      <path class="k"
+        d="M212.048,734.214H130.311c-4.17,0-7.952-1.225-9.654-3.128l-18.75-20.944H240.452L221.7,731.086C220,732.989,216.218,734.214,212.048,734.214Z"
+        transform="translate(-101.907 -710.142)" />
+    </g>
+    <g transform="translate(390.458 679.003)">
+      <path class="k"
+        d="M370.558,734.214H288.821c-4.17,0-7.952-1.225-9.654-3.128l-18.75-20.944H398.962l-18.748,20.944C378.51,732.989,374.728,734.214,370.558,734.214Z"
+        transform="translate(-260.417 -710.142)" />
+    </g>
+    <g transform="translate(421.261 559.178)">
+      <g class="d">
+        <rect class="l" width="24.134" height="13.466" rx="2.108" />
+        <rect class="l" width="24.134" height="13.466" rx="2.108" transform="translate(0 30.062)" />
+        <rect class="l" width="24.134" height="13.466" rx="2.108" transform="translate(0 60.124)" />
+      </g>
+      <g class="d" transform="translate(39.423)">
+        <rect class="l" width="24.134" height="13.466" rx="2.108" />
+        <rect class="l" width="24.134" height="13.466" rx="2.108" transform="translate(0 30.062)" />
+        <rect class="l" width="24.134" height="13.466" rx="2.108" transform="translate(0 60.124)" />
+      </g>
+      <g class="d" transform="translate(78.845)">
+        <rect class="l" width="24.134" height="13.466" rx="2.108" />
+        <rect class="l" width="24.134" height="13.466" rx="2.108" transform="translate(0 30.062)" />
+        <rect class="l" width="24.134" height="13.466" rx="2.108" transform="translate(0 60.124)" />
+      </g>
+    </g>
+    <g class="d" transform="translate(16.307 20.454)">
+      <path class="m"
+        d="M90.94,543.788v-54.3c0-14.994,10.241-27.147,22.876-27.147H605.8c12.635,0,22.876,12.153,22.876,27.147v583.8c0,14.994-10.241,27.147-22.876,27.147H113.816c-12.635,0-22.876-12.153-22.876-27.147v-71.555"
+        transform="translate(-90.939 -462.343)" />
+      <path class="n" d="M90.939,493.427h20.9v132.16h-20.9" transform="translate(-90.939 -424.804)" />
+      <path class="n" d="M90.939,631.093h20.9v72.6h-20.9" transform="translate(-90.939 -167.062)" />
+      <line class="n" y2="171.572" transform="translate(0 264.083)" />
+    </g>
+  </g>
+</svg>

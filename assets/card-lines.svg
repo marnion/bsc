@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="398.964" height="83.347" viewBox="0 0 398.964 83.347">
+  <defs>
+    <filter id="Line_3" x="0" y="0" width="398.964" height="16" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="#f8cd36" flood-opacity="0.749"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_4" x="0" y="67.347" width="398.964" height="16" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-color="#f8cd36" flood-opacity="0.749"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="card-lines" transform="translate(8 8)">
+    <g transform="matrix(1, 0, 0, 1, -8, -8)" filter="url(#Line_3)">
+      <line id="Line_3-2" data-name="Line 3" x2="382.964" transform="translate(8 8)" fill="none" stroke="#f8cd36" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -8, -8)" filter="url(#Line_4)">
+      <line id="Line_4-2" data-name="Line 4" x2="382.964" transform="translate(8 75.35)" fill="none" stroke="#f8cd36" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

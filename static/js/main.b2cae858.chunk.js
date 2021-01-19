@@ -2473,7 +2473,7 @@
                                   className: 'third-div',
                                   children: [
                                     Object(n.jsx)('a', {
-                                      href: 'https://t.me/tronglasschat',
+                                      href: 'https://t.me/bnbchainchat',
                                       target: '_blank',
                                       className: 'btn-normal btn-super-long',
                                       children: Object(n.jsx)('p', {

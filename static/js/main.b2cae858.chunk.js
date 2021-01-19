@@ -881,7 +881,7 @@
               Object(h.a)(this, a),
               ((n = t.call(this, e)).timer = function () {
                 var e =
-                    new Date('January 20, 2021 00:00:00').getTime() -
+                    new Date('January 25, 2021 00:00:00').getTime() -
                     new Date().getTime(),
                   t = Math.floor(e / 864e5),
                   a = Math.floor((e % 864e5) / 36e5),
@@ -1624,12 +1624,12 @@
                                     Object(n.jsx)('p', {
                                       className: 'heading',
                                       children:
-                                        'The First Decentralized',
+                                        'Earn 350% APY',
                                     }),
                                     Object(n.jsx)('p', {
                                       className: 'heading-2',
                                       children:
-                                        'Hourglass Contract Hosted on Binance Smart Chain.',
+                                        'through BNB Chain hosted on BSC.',
                                     }),
                                   ],
                                 }),

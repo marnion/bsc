@@ -881,7 +881,7 @@
               Object(h.a)(this, a),
               ((n = t.call(this, e)).timer = function () {
                 var e =
-                    new Date('January 25, 2021 00:00:00').getTime() -
+                    new Date('January 20, 2021 00:00:00').getTime() -
                     new Date().getTime(),
                   t = Math.floor(e / 864e5),
                   a = Math.floor((e % 864e5) / 36e5),
@@ -1629,7 +1629,7 @@
                                     Object(n.jsx)('p', {
                                       className: 'heading-2',
                                       children:
-                                        'through BNB Chain hosted on BSC.',
+                                        'with BNB Chain on BSC.',
                                     }),
                                   ],
                                 }),
@@ -2480,28 +2480,11 @@
                                   className: 'third-div',
                                   children: [
                                     Object(n.jsx)('a', {
-                                      href:
-                                        'https://web.facebook.com/VaultFinanceApp',
-                                      target: '_blank',
-                                      className: 'btn-normal btn-super-long',
-                                      children: Object(n.jsx)('p', {
-                                        children: 'Facebook',
-                                      }),
-                                    }),
-                                    Object(n.jsx)('a', {
-                                      href: 'https://t.me/VaultFinanceApp',
+                                      href: 'https://t.me/tronglasschat',
                                       target: '_blank',
                                       className: 'btn-normal btn-super-long',
                                       children: Object(n.jsx)('p', {
                                         children: 'Telegram',
-                                      }),
-                                    }),
-                                    Object(n.jsx)('a', {
-                                      href: 'https://medium.com/@vaultfinance',
-                                      target: '_blank',
-                                      className: 'btn-normal btn-super-long',
-                                      children: Object(n.jsx)('p', {
-                                        children: 'Medium',
                                       }),
                                     }),
                                   ],

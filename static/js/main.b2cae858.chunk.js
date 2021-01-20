@@ -1294,7 +1294,7 @@
                                   break
                                 }
                                 this.showErrorMessage(
-                                  'Please wait for the page to load.',
+                                  'Please make sure you are connected to the Binance Smart Chain.',
                                 ),
                                   (e.next = 12)
                                 break
@@ -1393,7 +1393,7 @@
                   if (this.state.investment < 1)
                     this.showErrorMessage('Minimum invest 1 BNB.')
                   else if ('---' === this.state.incomeLimitRemain)
-                    this.showErrorMessage('Please wait for the page to load.')
+                    this.showErrorMessage('Please make sure you are connected to the Binance Smart Chain.')
                   else if (this.state.incomeLimitRemain > 0)
                     this.showErrorMessage(
                       'Investment already exists / Use different wallet.',

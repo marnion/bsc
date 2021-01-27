@@ -1559,7 +1559,7 @@
                                             Object(n.jsx)('a', {
                                               class: 'head-nav-links-a',
                                               href:
-                                                'https://dappradar.com/binance-smart-chain/high-risk/',
+                                                'https://dappradar.com/binance-smart-chain/high-risk/bnb-chain',
                                               target: '_blank',
                                               children: 'DappRadar',
                                             }),
